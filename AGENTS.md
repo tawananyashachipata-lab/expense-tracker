@@ -1,0 +1,1 @@
+- Side menu is a custom Modal + Animated panel (components/SideMenu.tsx); avoid reanimated/worklets because version mismatches crash Expo Go.

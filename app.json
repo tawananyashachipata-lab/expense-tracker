@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Expense Tracker",
+    "slug": "expense-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "expensetracker",
+    "userInterfaceStyle": "light",
+    "android": { "edgeToEdgeEnabled": true },
+    "plugins": ["expo-router"]
+  }
+}
